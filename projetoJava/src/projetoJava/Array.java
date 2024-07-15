@@ -27,6 +27,7 @@ public class Array {
 			
 			System.out.println("Deseja alocar mais um item na sua caixa? (S/N)");
 			deseja = scanner.nextLine();
+			System.out.println("BLAoajdfgoptj");
 		}
 			System.out.println("Deseja visualizar o conteúdo atual da caixa? (S/N)");
 			desejas = scanner.next();
